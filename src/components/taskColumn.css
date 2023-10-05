@@ -1,0 +1,11 @@
+.section_heading{
+    display: flex;
+    align-items: center;
+    /* justify-content: center; */
+    margin-bottom: 20px;
+}
+
+.task_icon{
+    width: 40px;
+    margin-right: 5px;
+}
